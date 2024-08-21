@@ -27,7 +27,7 @@ This repository contains a FastAPI application that allows for file uploads to O
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-github-username/your-repo-name.git
+    git clone [[https://github.com/your-github-username/your-repo-name.git](https://github.com/wukimidaire/vector_file_upload_api/)](https://github.com/wukimidaire/vector_file_upload_api/)
     ```
 
 2. Navigate to the project directory:
